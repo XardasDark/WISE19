@@ -1,0 +1,8 @@
+Di. 7.1.2020
+
+1. Entwurfsmuster 1 [Dennis Petana]
+Welche Entwurfsprobleme lösen Entwurfsmuster?
+Vergleich von Mustern, Algorithmen und Frameworks
+Vor- und Nachteile
+Arten von Entwurfsmustern (Verhalten, Struktur, Erzeugung)
+Gang of Four Patterns
