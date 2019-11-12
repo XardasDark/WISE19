@@ -1,0 +1,2 @@
+Stakeholder: Designer, Entwickler, Konfigurationsmanager
+UML: Paketdiagramm

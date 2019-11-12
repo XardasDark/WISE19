@@ -1,0 +1,27 @@
+Als ein Feuerwehrmann möchte ich mich für die richtige Wehr registrieren/freischalten lassen können
+Als Wehrleitung kann ich die nächsten Dienstabende erstellen und so die Kameraden an der Teilnahme abstimmen lassen
+Als Kamerad möchte ich meine und andere Aktivität/Beteiligung sehen können
+Als Kamerad interessiere ich mich für eine Detailansicht aller zukünftigen Aktivitäten mittels Kalender
+Als Kamerad möchte ich an Abstimmungen teilnehmen können
+Als Wehrleitung möchte ich Kameraden anlegen können, noch bevor sie sich registrieren
+Als Wehrleitung muss ich erkennen können wer von allen Kameraden die App hat und wer nicht
+Als Administrator lege ich wert auf Datenschutz und möchte eine Sichere Anwendung
+Als Kamerad möchte ich mein Profil mit Details über mich bearbeiten können
+Als Feuerwehrmann interessiere ich mich was in meiner Umgebung passiert und möchte über diese News informiert werden können
+Als Kamerad möchte ich eine Push-Nachricht/Email erhalten, wenn eine neue Aktivität angelegt wurde, oder das Zeitfenster zum abstimmen abläuft
+Als Administrator möchte ich die Daten auf einer Datenbank speichern
+Als Kamerad möchte ich die Anwendung auf verschiedene Plattformen nutzen können
+Als Wehrleitung sollen alle Kameraden zur besseren Übersicht in Rollen eingewiesen werden können
+Als Wehrleitung sollen diese Rollen editierbar sein
+Als Feuerwehrmann möchte ich die vergangenen Aktivitäten sehen können
+Als Feuerwehrmann muss ich mich auch mal krank/inaktiv/im Urlaub melden können
+Als Wehrleitung möchte ich relevante Dateien in eine Cloud zur Verwendung aller hochladen können
+Als Feuerwehrmann kann ich mit anderen Kameraden in meiner Wehr chatten
+Als Wehrleitung kann ich Chaträume erstellen, in diese nur gewisse Rollen/Kameraden Lese/Schreibrechte haben
+Als Wehrleitung möchte ich auf einem Blick meine ganze Mannschaft mit Rolle im Blick haben
+Als Kamerad wäre es schön die Geburtstage (Falls angegeben) meiner Kameraden im Kalende zu sehen
+Als Feuerwehrmann muss ich mein Account mit einem Passwort schützen
+Als Feuerwehrmann kann ich in meinem Profil bestimmen welche Benachrichtigungen und wie viele ich erhalten möchte
+Als Feuerwehrmann soll es mir auch möglich sein mich aus der Anwendung auszuloggen
+Als Feuerwehrmann muss ich sehen können wo und wann welche Aktivität stattfindet. Außerdem müssen zusätzliche Informationen erkennbar sein, sowie die mögliche Dauer und die Teilnehmerliste
+Als Feuerwehrmann kann ich das Wetter am Tag der Aktivität lesen

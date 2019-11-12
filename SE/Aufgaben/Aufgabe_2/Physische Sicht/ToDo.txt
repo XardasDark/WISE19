@@ -1,0 +1,2 @@
+Stakeholder: Hardwareingenieur, Deployer
+UML: Verteilungsdiagramm

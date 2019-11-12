@@ -1,0 +1,2 @@
+Stakeholder: Anwender, Analytiker, Designer, Bereichsexperten
+UML: Klassendiagramm, Kommunikationsdiagramm, Sequenzdiagramm
